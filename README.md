@@ -59,7 +59,7 @@ https://youtu.be/yxMxDTTiPkM
 **GAME OBJECT GUIDE**
 | TRUCK | JUICE | MILK | SODA | COFFEE |
 |-------|-------|------|------|--------|
-| <img src="./images/truck.png" width="80"/> | <img src="./images/juice.png" width="80"/> | <img src="./images/milk" width="80"/> | <img src="./images/soda" width="80"/> | <img src="./images/coffee" width="80"/> |
+| <img src="./images/truck.png" width="80"/> | <img src="./images/juice.png" width="80"/> | <img src="./images/milk.png" width="80"/> | <img src="./images/soda.png" width="80"/> | <img src="./images/coffee.png" width="80"/> |
 
 
 **KNOWN PROBLEMS**
