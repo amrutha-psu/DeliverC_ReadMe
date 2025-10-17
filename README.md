@@ -54,7 +54,7 @@ https://youtu.be/yxMxDTTiPkM
 8. Successes –> Your total correct runs.
 9. Mistakes –> Your total failed attempts.
 10. Settings Button (Gear Icon) –> Adjusts volume, resets the map (truck and items return to location 0), or returns to the Main Menu.
-<img width="650" src="https://github.com/user-attachments/assets/47008e2d-c44e-4a6a-9c8f-b3971592bb39">
+<img width="650" src="./images/ux.png">
 
 **GAME OBJECT GUIDE**
 | TRUCK | JUICE | MILK | SODA | COFFEE |
