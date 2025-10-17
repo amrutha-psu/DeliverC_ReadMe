@@ -1,4 +1,4 @@
-# UnnamedCGame
+# DeliverC
 **OVERVIEW**
 
 A research/honors project by Wyatt Petula, Anushcka Joshi, and Peggy Tu. Faculty mentor: Dr. Suman Saha @ Penn State
@@ -59,7 +59,7 @@ https://youtu.be/yxMxDTTiPkM
 **GAME OBJECT GUIDE**
 | TRUCK | JUICE | MILK | SODA | COFFEE |
 |-------|-------|------|------|--------|
-| <img src="https://github.com/user-attachments/assets/d305fdb7-dcab-4701-bc2a-da5c0f88f682" width="80"/> | <img src="https://github.com/user-attachments/assets/30d72a47-a336-4648-aa44-775bee3f6b9b" width="80"/> | <img src="https://github.com/user-attachments/assets/4e6c1790-df5e-4365-ba1a-aa5745c83eff" width="80"/> | <img src="https://github.com/user-attachments/assets/a3848307-ea62-46be-8b6e-c808dab98b9c" width="80"/> | <img src="https://github.com/user-attachments/assets/2aa14161-14ba-4be1-bd48-a2f8df576f46" width="80"/> |
+| <img src="./images/truck.png" width="80"/> | <img src="./images/juice.png" width="80"/> | <img src="./images/milk" width="80"/> | <img src="./images/soda" width="80"/> | <img src="./images/coffee" width="80"/> |
 
 
 **KNOWN PROBLEMS**
